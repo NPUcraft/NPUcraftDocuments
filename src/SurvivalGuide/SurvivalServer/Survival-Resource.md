@@ -26,7 +26,7 @@ category:
 
 ## **三、传送与资源体系🚀** 
 
-- 🌐 多维度随机传送`/rtp`
+- 🌐 多维度随机传送 **`/rtp`**：由自研插件 [RandomTeleport](/PluginIntroduction/RandomTeleport) 提供，支持 **`/rtp back`** 返回上一次传送前位置、经济扣费与冷却等（详见该页）。  
 - ⛏️ 巨型矿脉生成，探矿策略性升级
 
 

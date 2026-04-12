@@ -3,6 +3,7 @@ title: 账号注册
 icon: fluent-emoji:registered
 author: SUPER2FH
 date: 2025-03-20
+prev: ./Environment
 ---
 
 

@@ -29,17 +29,18 @@ index: false
 |      | [**DecentHolograms**](https://github.com/DecentSoftware-eu/DecentHolograms) |  /   |    √     |  ×   |   ×    |   ×    |
 |      |  [**EssentialsX**](https://essentialsx.net/downloads.html)   |  /   |    √     |  ×   |   ×    |   ×    |
 |      |         [**GSit**](https://github.com/Gecolay/GSit)          |  /   |    √     |  √   |   √    |   √    |
+|      | [**Simple Voice Chat**](https://modrinth.com/plugin/simple-voice-chat) |  ×   |    ×     |  √   |   √    |   √    |
 |      | [**HuskSync**](https://www.spigotmc.org/resources/husksync-sync-inventories-ender-chests-cross-server-advancements-map-art-stats-backups.97144/) |  /   |    /     |  √   |   √    |   √    |
 |      | [**Quests**](https://www.spigotmc.org/resources/quests.3711/) |  /   |    √     |  ×   |   ×    |   ×    |
 |      | [**Residence**](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-21.11480/) |  /   |    √     |  √   |   ×    |   ×    |
-|      | [**ServerTeleport**](https://www.spigotmc.org/resources/serverteleport-1-7-1-15-status-query-bungee-teleport.70799/) |  /   |    √     |  √   |   √    |   √    |
+|      | [**ServerTeleport**](https://github.com/NPUcraft/ServerTeleport)（Velocity 切服别名） |  √   |    √     |  √   |   √    |   √    |
 |      |   [nightcore](https://github.com/nulli0n/nightcore-spigot)   |  /   |    ×     |  √   |   √    |   √    |
 |      | [CoinsEngine](https://www.spigotmc.org/resources/coinsengine-⭐-economy-and-custom-currencies.84121/) |  /   |    ×     |  √   |   √    |   √    |
 |      | [EconomyShopGUI](https://www.spigotmc.org/resources/economyshopgui-premium.104414/) |  /   |    ×     |  √   |   √    |   ×    |
 |      | [**TimeIsMoney**](https://www.spigotmc.org/resources/time-is-money.12409/) |  /   |    ×     |  √   |   √    |   ×    |
 |      | [**(FastAsync)WorldEdit**](https://www.spigotmc.org/resources/fastasyncworldedit.13932/) |  /   |    √     |  √   |   ×    |   √    |
 |      | [**worldguard**](https://dev.bukkit.org/projects/worldguard/files) |  /   |    √     |  ×   |   ×    |   ×    |
-|      | [**BetterRTP**](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) |  /   |    ×     |  ×   |   ×    |   √    |
+|      | [**RandomTeleport**](https://github.com/NPUcraft/RandomTeleport) |  ×   |    ×     |  ×   |   ×    |   √    |
 |      | [**BetterStructures**](https://www.spigotmc.org/resources/betterstructures.103241/) |  /   |    ×     |  ×   |   ×    |   √    |
 |      | [**Chunky**](https://www.spigotmc.org/resources/chunky.81534/) |  /   |    ×     |  ×   |   ×    |   √    |
 |      | [**DragonDropElytra**](https://www.spigotmc.org/resources/dragondropelytra2.71235/) |  /   |    ×     |  ×   |   ×    |   √    |
