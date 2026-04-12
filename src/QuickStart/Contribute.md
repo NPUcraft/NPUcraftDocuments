@@ -28,7 +28,7 @@ prev: ./HowToAsk
 2. 若你**尚未 Fork**：点击仓库右上角 **Fork**，在你的账号下生成一份副本。
 3. 在你的 Fork 里打开同一文件，点击铅笔图标 **Edit this file**。
 4. 编辑完成后，在页面下方填写 **Commit message**（建议见下文「提交说明」），选择 **Create a new branch** 并发起 **Propose changes**。
-5. 在随后页面点击 **Create pull request**，填写 PR 标题与说明，提交到 **上游仓库** `NPUcraft/Documents` 的默认分支（一般为 `main`）。
+5. 在随后页面点击 **Create pull request**，填写 PR 标题与说明，提交到上游仓库 `NPUcraft/Documents` 的默认分支（一般为 `main`）。
 
 维护者审核通过后会合并；你无需在本地安装 Node.js。
 
@@ -88,7 +88,7 @@ npm run docs:build
 | `src/**/*.md` | 各页面正文（含各子目录下的 `README.md` 作为章节首页） |
 | `src/.vuepress/config.ts` | VuePress 全局配置 |
 | `src/.vuepress/theme.ts` | 主题（Hope）与插件、搜索等 |
-| `src/.vuepress/sidebar/zh.ts` | **中文侧栏**顺序与条目；新增页面后通常需在此注册 |
+| `src/.vuepress/sidebar/zh.ts` | 中文侧栏顺序与条目；新增页面后通常需在此注册 |
 | `src/.vuepress/navbar/zh.ts` | 顶部导航 |
 
 **新增一篇文档页面时**，除添加 `.md` 文件外，一般还需在 `sidebar/zh.ts`（及必要时在 `navbar`）中加入对应条目，否则读者从侧栏无法直接点进该页。
@@ -117,7 +117,7 @@ npm run docs:build
 
 - **动机**：为何要改（纠错 / 补充规则 / 跟进版本等）
 - **范围**：主要改了哪些路径下的文件
-- **关联**：若仓库使用 Issue，可写 `Fixes #编号` 或 `Closes #编号`
+- 关联：若仓库使用 Issue，可写 `Fixes #编号` 或 `Closes #编号`
 
 首次贡献者按 GitHub 提示完成 **Contributor 协议**（若仓库启用）即可。
 

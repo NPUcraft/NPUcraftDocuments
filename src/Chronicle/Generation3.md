@@ -16,7 +16,7 @@ order: 30
 由于Minecraft1.16的大规模更新，第三周目于**2020年春**正式停服。
 
 ## 👑 管理员
-- **服主**: 👑 `TeachingFeelings`、`Rinryrethoic`
+- 服主：👑 `TeachingFeelings`、`Rinryrethoic`
 - **执政OP**: 🛠️ 
   `Rinryrethoic`、`Evalyn`、`Dai_mao`、`Orange_Chengjun`、`gongxi`
 

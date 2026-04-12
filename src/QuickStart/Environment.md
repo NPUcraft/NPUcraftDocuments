@@ -27,12 +27,12 @@ NPUcraft 使用较新的 Minecraft Java 版服务端，**建议在本机安装 J
 
 ### **2. 验证是否安装成功**
 
-- **Windows**：`Win + R` → 输入 `cmd` → 回车，执行：
+- Windows：`Win + R` → 输入 `cmd` → 回车，执行：
   ```bash
   java -version
   ```
   输出中应出现 `21.x.x`（或厂商字符串中包含 21）。
-- **macOS / Linux**：打开终端，同样执行 `java -version`。
+- macOS / Linux：打开终端，同样执行 `java -version`。
 
 ::: note 多版本 Java 并存
 
@@ -84,7 +84,7 @@ NPUcraft 使用较新的 Minecraft Java 版服务端，**建议在本机安装 J
 
 ## **五、常见问题**
 
-**问：`java -version` 提示不是内部命令或找不到？**  
+问：`java -version` 提示不是内部命令或找不到？  
 答：可能未安装成功或未加入 `PATH`。可重新安装 JDK 21 并勾选「设置 PATH」，或在启动器中手动指定 `java.exe` 路径。
 
 **问：启动器提示认证失败？**  

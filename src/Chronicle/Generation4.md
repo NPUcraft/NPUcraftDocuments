@@ -8,13 +8,13 @@ order: 40
 
 ## 🌐 基本信息
 - **时间**：2020.6-2021.12
-- **版本架构**: 🎮 `1.16-1.17` 纯净生存 | 🖥️ 群组服体系
+- 版本架构：🎮 `1.16-1.17` 纯净生存 | 🖥️ 群组服体系
 - **核心变革**: 
   🔒 严格权限管控 | 🏗️ 纯生存建造 | 🎪 活动分流至娱乐/大赛服
   🧪 `测试服`镜像系统（同种子实验场）
 
 ## 👑 管理员
-- **服主**: 👑 `xiaoxiaolu`
+- 服主：👑 `xiaoxiaolu`
 - **执政OP**: 🛠️ 
   `Rinryrethoic`、`TeachingFeelings`、`Orange_Chengjun`、`yuguidahai`、`Altair`、`ARKsealin`、`SUPER2FH`、`ADCa`、`JingkaiNing`
 

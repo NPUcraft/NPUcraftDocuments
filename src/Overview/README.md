@@ -27,9 +27,9 @@ date: 2026-04-12
 
 ::: important 地址与线路
 
-**公网线路 1（推荐）**：`mc.npucraft.com`
+公网线路 1（推荐）：`mc.npucraft.com`
 
-**公网线路 2（高峰备用）**：`mc2.npucraft.com`
+公网线路 2（高峰备用）：`mc2.npucraft.com`
 
 **游戏版本**：Java 版以 **[更新日志](./Changelog)** 中「服务器当前版本」为准；客户端版本与跨版本说明亦见该页。
 

@@ -24,8 +24,8 @@ date: 2025-03-20
 
 ::: tip 切服与随机传送
 
-- **`/zf`、`/gyf`、`/zyf`、`/hub`、`/lobby`** 等为 **Velocity** 上的切服别名，由 [ServerTeleport](/PluginIntroduction/ServerTeleport) 映射到各子服，等价于使用 `/server <后端名>`。  
-- **`/rtp`** 仅在 **生存服-资源服** 由 [RandomTeleport](/PluginIntroduction/RandomTeleport) 提供随机传送；扣费与冷却以游戏内 **`/rtp help`** 为准。
+- `/zf`、`/gyf`、`/zyf`、`/hub`、`/lobby` 等为 **Velocity** 上的切服别名，由 [ServerTeleport](/PluginIntroduction/ServerTeleport) 映射到各子服，等价于使用 `/server <后端名>`。  
+- `/rtp` 仅在 **生存服-资源服** 由 [RandomTeleport](/PluginIntroduction/RandomTeleport) 提供随机传送；扣费与冷却以游戏内 `/rtp help` 为准。
 
 :::
 

@@ -8,14 +8,14 @@ order: 50
 
 ## 🌐 基本信息
 
-**版本**：`1.18-1.21.4` | 🖥️ 群组服体系
+版本：`1.18-1.21.4` | 🖥️ 群组服体系
 
 **时间**：2022年01月-至今
 
 ## 👑 管理团队
-**在任**：`SUPER2FH`、`Rinryrethoic`、`sanae`、`mc_bookman`、`Frezz`、`ADCa`、`V_Galiyanov`、`Hui_Xun`
+在任：`SUPER2FH`、`Rinryrethoic`、`sanae`、`mc_bookman`、`Frezz`、`ADCa`、`V_Galiyanov`、`Hui_Xun`
 
-**退休**：`JingkaiNing`、`ARKsealin`、`Sirius`、`yehuangwu`、`MikuMikuMi`、`xiaoxiaolu`、`TeachingFeelings`
+退休：`JingkaiNing`、`ARKsealin`、`Sirius`、`yehuangwu`、`MikuMikuMi`、`xiaoxiaolu`、`TeachingFeelings`
 
 ---
 

@@ -132,12 +132,12 @@ npm run docs:dev
 
 - **配置PR参数**
 
-   - **Base repository**：选择原始仓库的目标分支（如`org/project:main`）
-   - **Head repository**：选择个人分支（如`your-username:feat/add-new-feature`）
+   - Base repository：选择原始仓库的目标分支（如 `org/project:main`）
+   - Head repository：选择个人分支（如 `your-username:feat/add-new-feature`）
 
 - **填写PR描述**
 
-   - **标题**：概括改动核心（如`新增XXX功能`）
+   - 标题：概括改动核心（如 `新增XXX功能`）
    - **正文模板**：
 
      ```markdown
