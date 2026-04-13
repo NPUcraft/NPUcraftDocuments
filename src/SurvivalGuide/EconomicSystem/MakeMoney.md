@@ -25,7 +25,7 @@ tag:
 
 ## **二、玩家交易**
 - [商店交易](/SurvivalGuide/EconomicSystem/Shop)
-- 直接转账：`/coins give <player> <amount>`
+- 直接转账：`/pay <player> <amount>`（或与主货币等价的 `/coins pay`；以服内注册为准，见 [经济系统 · CoinsEngine 命令](./README.md#coinsengine-player-commands)）
 
 ## **三、任务**
 政府/管理员不定期根据需求发布任务，金额随工作量动态变化。
