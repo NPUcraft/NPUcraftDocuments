@@ -34,6 +34,7 @@ index: false
 |      | [**Quests**](https://www.spigotmc.org/resources/quests.3711/) |  /   |    √     |  ×   |   ×    |   ×    |
 |      | [**Residence**](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-21.11480/) |  /   |    √     |  √   |   ×    |   ×    |
 |      | [**ServerTeleport**](https://github.com/NPUcraft/ServerTeleport)（Velocity 切服别名） |  √   |    √     |  √   |   √    |   √    |
+|      | [**GlobalChat**](https://github.com/NPUcraft/GlobalChat)（Velocity 全局聊天） |  √   |    √     |  √   |   √    |   √    |
 |      |   [nightcore](https://github.com/nulli0n/nightcore-spigot)   |  /   |    ×     |  √   |   √    |   √    |
 |      | [CoinsEngine](https://www.spigotmc.org/resources/coinsengine-⭐-economy-and-custom-currencies.84121/) |  /   |    ×     |  √   |   √    |   √    |
 |      | [EconomyShopGUI](https://www.spigotmc.org/resources/economyshopgui-premium.104414/) |  /   |    ×     |  √   |   √    |   ×    |

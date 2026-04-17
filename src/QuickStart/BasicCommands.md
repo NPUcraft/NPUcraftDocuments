@@ -29,6 +29,12 @@ date: 2025-03-20
 
 :::
 
+::: tip 全局聊天
+
+`/g on [频道]`、`/g off`、`/g list`、`/g history` 等由代理插件 [GlobalChat](/PluginIntroduction/GlobalChat) 提供，用于在配置的子服间收发全局聊天；频道名、白名单子服与冷却以 `config.yml` 及游戏内提示为准。
+
+:::
+
 ::: tip 更多指令请查阅[《插件介绍》](/PluginIntroduction/)
 
 :::

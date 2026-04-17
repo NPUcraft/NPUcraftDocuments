@@ -37,6 +37,8 @@ tag:
 
 别名可能受**当前所在后端白名单**与**冷却时间**限制；若提示无权或无法切服，请对照 ServerTeleport 页的「按服限制」与常见问题。
 
+在代理启用 **GlobalChat** 时，可用 `/g on [频道]`、`/g off` 等在配置的子服间收发全局聊天（频道与白名单以服内为准），详见 [GlobalChat 文档](/PluginIntroduction/GlobalChat)。
+
 ## 卫星地图
 
 - [主服 Dynmap](https://map.npucraft.com/dynmap/)
