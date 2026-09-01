@@ -1,7 +1,7 @@
 ---
 title: BuildTheWorldForNPU
 shortTitle: 复原工程
-icon: https://cos.npucraft.com/2025/03/12/67d182f1dbbf4.png
+icon: /assets/cos/2025/03/12/67d182f1dbbf4.png
 category:
   - StandAloneServer
 

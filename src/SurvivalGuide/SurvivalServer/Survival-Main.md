@@ -45,7 +45,7 @@ category:
 
 ## **交通线路图**
 
-![服务器轨道交通线路图](https://cos.npucraft.com/2025/03/12/67d149bc7e989.png)
+![服务器轨道交通线路图](/assets/cos/2025/03/12/67d149bc7e989.png)
 
 ## **[卫星地图](https://map.npucraft.com/dynmap/)**
 

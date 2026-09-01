@@ -1,6 +1,6 @@
 ---
 title: AngelChest
-icon: https://cos.npucraft.com/2025/03/21/67dd00154f020.jpg
+icon: /assets/cos/2025/03/21/67dd00154f020.jpg
 author: SUPER2FH
 category:
   - FunctionalPlugin

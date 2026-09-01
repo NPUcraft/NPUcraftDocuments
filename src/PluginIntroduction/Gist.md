@@ -1,6 +1,6 @@
 ---
 title: GSit
-icon: https://cos.npucraft.com/2025/03/21/67dd0582cdf55.jpg
+icon: /assets/cos/2025/03/21/67dd0582cdf55.jpg
 author: SUPER2FH
 category:
   - FunctionalPlugin

@@ -23,7 +23,7 @@ order: 30
 ## 🏰 建筑史诗
 
 ### 🏛️ 主城区
-![主城区](https://cos.npucraft.com/2025/03/22/67de8c83bcf21.jpg)
+![主城区](/assets/cos/2025/03/22/67de8c83bcf21.jpg)
 
 Rin和LLLLL、橙君建造。
 
@@ -36,7 +36,7 @@ Rin和LLLLL、橙君建造。
 - 🧭 地下暗藏末地传送门矩阵
 - 🗺️ 下沉式大厅的立体地图
 
-![主城主建筑](https://cos.npucraft.com/2025/03/23/67df955a4f36c.jpg)
+![主城主建筑](/assets/cos/2025/03/23/67df955a4f36c.jpg)
 
 #### 🎵 主城广场
 
@@ -65,7 +65,7 @@ xgdxiaoli建造，位于主城广场东侧。顾名思义，里面保存着十�
 - 💥 传奇事件：`KCN`爆破事件
 
 ### 🎪 铃鹿区
-![铃鹿区](https://cos.npucraft.com/2025/03/22/67de8c8328d0b.jpg)
+![铃鹿区](/assets/cos/2025/03/22/67de8c8328d0b.jpg)
 <div class="center">创造模式下的赛博奇观</div>
 
 #### 🏙️ 5L大厦
@@ -113,19 +113,19 @@ xgdxiaoli建造，位于主城广场东侧。顾名思义，里面保存着十�
 
 ## 🗡️ 典藏物品
 ### 兵器谱
-![少女剑圣婷菲的馈赠](https://cos.npucraft.com/2025/03/23/67df9559bca54.jpg)
+![少女剑圣婷菲的馈赠](/assets/cos/2025/03/23/67df9559bca54.jpg)
 
-![情侣狗必杀棍](https://cos.npucraft.com/2025/03/23/67df9558f3c7a.jpg)
+![情侣狗必杀棍](/assets/cos/2025/03/23/67df9558f3c7a.jpg)
 
 ![[二大爷的袖剑.png|300x200]]
 
 ### 时代印记
-![Covid19](https://cos.npucraft.com/2025/03/23/67df964d6598f.jpg)
+![Covid19](/assets/cos/2025/03/23/67df964d6598f.jpg)
 
 
 
-![NPUCraft中秋节纪念月饼](https://cos.npucraft.com/2025/03/23/67df955807060.jpg)
+![NPUCraft中秋节纪念月饼](/assets/cos/2025/03/23/67df955807060.jpg)
 
 
 
-![NPUCraft一周年纪念附魔金苹果](https://cos.npucraft.com/2025/03/23/67df955802586.png)
+![NPUCraft一周年纪念附魔金苹果](/assets/cos/2025/03/23/67df955802586.png)

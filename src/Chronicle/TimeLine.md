@@ -25,7 +25,7 @@ prev: ./
 - **2016年**
   - 复用BBS资源重启服务器，Ruby继任服主
   
-  ![Ruby，Evalyn与OLOrz建服](https://cos.npucraft.com/2025/03/22/67de8b29d7feb.jpg)
+  ![Ruby，Evalyn与OLOrz建服](/assets/cos/2025/03/22/67de8b29d7feb.jpg)
   
 - **2018年初**
   - 因BBS管理权变更被迫关停
@@ -37,7 +37,7 @@ prev: ./
 
   - 玩家决议重置存档
 
-    ![PrettyReol建立西工大历史上第二个正式服务器](https://cos.npucraft.com/2025/03/22/67de8c818af90.jpg)
+    ![PrettyReol建立西工大历史上第二个正式服务器](/assets/cos/2025/03/22/67de8c818af90.jpg)
 
 - **2018年6月**
 
@@ -48,7 +48,7 @@ prev: ./
 
   -  Dai_Mao以VPS延续服务器生命
 
-    ![呆毛拯救世界](https://cos.npucraft.com/2025/03/22/67de8c8236539.jpg)
+    ![呆毛拯救世界](/assets/cos/2025/03/22/67de8c8236539.jpg)
 
 ---
 
@@ -61,7 +61,7 @@ prev: ./
 
   - 服务器重返三航四方平台
 
-    ![时隔三年，重回三航四方](https://cos.npucraft.com/2025/03/22/67de8c82c31d8.jpg)
+    ![时隔三年，重回三航四方](/assets/cos/2025/03/22/67de8c82c31d8.jpg)
 
 - **建设成就**
 
@@ -71,9 +71,9 @@ prev: ./
   
   <BiliBili bvid="BV1k7411n7SL" />
 
-    ![第三周目主城](https://cos.npucraft.com/2025/03/22/67de8c83bcf21.jpg)
+    ![第三周目主城](/assets/cos/2025/03/22/67de8c83bcf21.jpg)
 
-    ![第三周目铃鹿区](https://cos.npucraft.com/2025/03/22/67de8c8328d0b.jpg)
+    ![第三周目铃鹿区](/assets/cos/2025/03/22/67de8c8328d0b.jpg)
 
 - **2020年4月**
 
@@ -86,11 +86,11 @@ prev: ./
 
   - 小鹿以个人设备接任服主
 
-     ![xiaoxiaolu凭借自己的资源与技术担任服主](https://cos.npucraft.com/2025/03/23/67df918a78f32.jpg)
+     ![xiaoxiaolu凭借自己的资源与技术担任服主](/assets/cos/2025/03/23/67df918a78f32.jpg)
 
   - 一月内实现服内共产主义
 
-    ![第四周目主城](https://cos.npucraft.com/2025/03/23/67df9187f20c0.jpg)
+    ![第四周目主城](/assets/cos/2025/03/23/67df9187f20c0.jpg)
 
 - **2020年09月**
 
@@ -98,7 +98,7 @@ prev: ./
 
   - 启动[西工大复原工程](../ServerIntroduction/BuildTheWordForNPU)
 
-    ![西工大复原工程](https://cos.npucraft.com/2025/03/23/67df9189debf1.jpg)
+    ![西工大复原工程](/assets/cos/2025/03/23/67df9189debf1.jpg)
 
 - **2020年12月**
 

@@ -1,6 +1,6 @@
 ---
 title: FastAsyncWorldEdit
-icon: https://cos.npucraft.com/2025/03/23/67dfe9cb98da8.png
+icon: /assets/cos/2025/03/23/67dfe9cb98da8.png
 author: SUPER2FH
 category:
   - FunctionalPlugin

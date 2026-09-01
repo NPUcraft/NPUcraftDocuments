@@ -1,6 +1,6 @@
 ---
 title: Dynmap
-icon: https://cos.npucraft.com/2025/03/21/67dcfaab77d93.png
+icon: /assets/cos/2025/03/21/67dcfaab77d93.png
 author: SUPER2FH
 category:
   - BasePlugin
@@ -167,7 +167,7 @@ tag:
 
 ### 1. 默认图标🏠
 
-![](https://cos.npucraft.com/2025/03/23/67dfe447a31bf.png)
+![](/assets/cos/2025/03/23/67dfe447a31bf.png)
 
 ### 2. 自定义图标🧩
 
@@ -177,6 +177,6 @@ tag:
 
 | 现有自定义图标名称 |                           图标预览                           |
 | :----------------: | :----------------------------------------------------------: |
-|     melon_boat     | ![melon_boat](https://cos.npucraft.com/2025/03/23/67dfe478b7c13.png) |
-|   melon_minecart   | ![melon_minecart](https://cos.npucraft.com/2025/03/23/67dfe47834e0a.png) |
+|     melon_boat     | ![melon_boat](/assets/cos/2025/03/23/67dfe478b7c13.png) |
+|   melon_minecart   | ![melon_minecart](/assets/cos/2025/03/23/67dfe47834e0a.png) |
 

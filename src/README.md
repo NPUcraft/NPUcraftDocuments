@@ -3,8 +3,8 @@ home: true
 icon: flat-color-icons:home
 title: 主页
 heroImage: "NPUcraftLogo.png"
-bgImage: https://cos.npucraft.com/2025/03/23/67df98026d109.jpg
-bgImageDark: https://cos.npucraft.com/2025/03/12/67d18f67e19fd.png
+bgImage: /assets/cos/2025/03/23/67df98026d109.jpg
+bgImageDark: /assets/cos/2025/03/12/67d18f67e19fd.png
 bgImageStyle:
   background-attachment: fixed
 heroText: NPUcraft，有你所想
@@ -19,9 +19,9 @@ highlights:
   - header: 我们的优势
     image: /assets/image/features.svg
 #    bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
-    bgImage: https://cos.npucraft.com/2025/03/23/67df98026d109.jpg
+    bgImage: /assets/cos/2025/03/23/67df98026d109.jpg
 #    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
-    bgImageDark: https://cos.npucraft.com/2025/03/12/67d18f67e19fd.png
+    bgImageDark: /assets/cos/2025/03/12/67d18f67e19fd.png
     features:
       - title: 历史悠久
         icon: openmoji:timer
@@ -39,9 +39,9 @@ highlights:
     description: ''
     image: /assets/image/blog.svg
 #    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
-    bgImage: https://cos.npucraft.com/2025/03/23/67df98026d109.jpg
+    bgImage: /assets/cos/2025/03/23/67df98026d109.jpg
 #    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
-    bgImageDark: https://cos.npucraft.com/2025/03/12/67d18f67e19fd.png
+    bgImageDark: /assets/cos/2025/03/12/67d18f67e19fd.png
     highlights:
       - title: 群：598445021
         icon: cib:qq
@@ -55,9 +55,9 @@ highlights:
     description: ''
     image: /assets/image/layout.svg
 #    bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svg
-    bgImage: https://cos.npucraft.com/2025/03/23/67df98026d109.jpg
+    bgImage: /assets/cos/2025/03/23/67df98026d109.jpg
 #    bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
-    bgImageDark: https://cos.npucraft.com/2025/03/12/67d18f67e19fd.png    
+    bgImageDark: /assets/cos/2025/03/12/67d18f67e19fd.png    
     highlights:
       - title: NPUskin皮肤站
         icon: material-icon-theme:minecraft-fabric
