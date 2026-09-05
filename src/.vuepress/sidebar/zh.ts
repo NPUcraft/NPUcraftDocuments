@@ -87,7 +87,7 @@ export const zhSidebar = sidebar({
           "DecentHolograms",
           "Dynmap",
           "FastAsyncWorldEdit",
-          "Gist",
+          "GSit",
           "LeavesFakePlayer",
           "LuckPerms",
           "MultiverseCore",

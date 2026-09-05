@@ -13,7 +13,8 @@ tag:
 
 
 
-::: info 完整文档请查阅[LuckPerms](https://luckperms.net/wiki/Home)
+::: info 完整文档
+官方文档：[LuckPerms Wiki](https://luckperms.net/wiki/Home)；中文翻译：[Continue Project · LuckPerms](https://continue-project.netlify.app/wiki/luckperms/)
 :::
 
 

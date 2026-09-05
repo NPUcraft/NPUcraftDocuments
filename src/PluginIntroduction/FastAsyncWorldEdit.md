@@ -13,7 +13,8 @@ tag:
 
 
 
-::: info 完整文档请查阅[FastAsyncWorldEdit](https://intellectualsites.gitbook.io/fastasyncworldedit)
+::: info 完整文档
+官方文档：[FastAsyncWorldEdit](https://intellectualsites.gitbook.io/fastasyncworldedit)；中文翻译：[Continue Project · FastAsyncWorldEdit](https://continue-project.netlify.app/wiki/fastasyncworldedit/)
 :::
 
 

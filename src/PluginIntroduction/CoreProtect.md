@@ -13,7 +13,8 @@ tag:
 
 
 
-::: info 完整文档请查阅[CoreProtect](https://docs.coreprotect.net/)
+::: info 完整文档
+官方文档：[CoreProtect](https://docs.coreprotect.net/)；中文翻译：[Continue Project · CoreProtect](https://continue-project.netlify.app/wiki/coreprotect/)
 :::
 
 

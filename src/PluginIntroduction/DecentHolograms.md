@@ -10,7 +10,8 @@ tag:
 
 
 
-::: info 完整文档请查阅[DecentHolograms](https://wiki.decentholograms.eu/)
+::: info 完整文档
+官方文档：[DecentHolograms](https://wiki.decentholograms.eu/)；中文翻译：[Continue Project · DecentHolograms](https://continue-project.netlify.app/wiki/decentholograms/)
 :::
 
 DecentHolograms是任何人都可以使用的全息图插件。使用命令您可以轻松地创建全息图并制作它们，多亏了许多功能，这个插件看起来非常独特甚至不接触任何配置文件。
