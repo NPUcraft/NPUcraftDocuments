@@ -3,7 +3,7 @@ title: MultiverseCore
 icon: https://www.spigotmc.org/data/resource_icons/0/390.jpg
 author: SUPER2FH
 category:
-  - BasePlugin
+  - 开源插件
 tag: 
   - Creative
 ---

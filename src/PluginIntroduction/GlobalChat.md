@@ -5,7 +5,7 @@ icon: mdi:forum-outline
 author: SUPER2FH
 category:
 
-- FunctionalPlugin
+- 自研插件
 tag:
 - Lobby
 - Survival-Main

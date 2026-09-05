@@ -3,7 +3,7 @@ title: ServerTeleport
 icon: mdi:transit-connection-variant
 author: SUPER2FH
 category:
-  - FunctionalPlugin
+  - 自研插件
 tag:
   - Lobby
   - Survival-Main

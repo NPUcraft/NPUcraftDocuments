@@ -3,7 +3,7 @@ title: Bluemap
 icon: /assets/cos/2025/03/21/67dcfe13d3133.ico
 author: SUPER2FH
 category:
-  - BasePlugin
+  - 开源插件
 tag:
   - Survival-Main
   - Survival-Industry

@@ -3,7 +3,7 @@ title: Dynmap
 icon: /assets/cos/2025/03/21/67dcfaab77d93.png
 author: SUPER2FH
 category:
-  - BasePlugin
+  - 开源插件
 tag: 
   - Survival-Main
   - Survival-Industry

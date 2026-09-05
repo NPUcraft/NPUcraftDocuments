@@ -4,6 +4,24 @@ icon: vscode-icons:folder-type-minecraft-opened
 index: false
 ---
 
+本页按来源分为 **自研插件** 与 **开源插件**。自研由 NPUcraft 开发维护；其余均为开源或第三方资源。侧栏按同一分类排列，可进入各插件说明页。
+
+## 自研插件
+
+[ServerTeleport](/PluginIntroduction/ServerTeleport)、[RandomTeleport](/PluginIntroduction/RandomTeleport)、[GlobalChat](/PluginIntroduction/GlobalChat)、[DeathChest](/PluginIntroduction/DeathChest)。
+
+
+|                                                              | 代理 | 登录大厅 | 主服 | 工业服 | 资源服 |
+| :----------------------------------------------------------: | :--: | :------: | :--: | :----: | :----: |
+| [**ServerTeleport**](/PluginIntroduction/ServerTeleport)（Velocity 切服别名） |  √   |    √     |  √   |   √    |   √    |
+| [**RandomTeleport**](/PluginIntroduction/RandomTeleport)（资源服随机传送） |  ×   |    ×     |  ×   |   ×    |   √    |
+| [**GlobalChat**](/PluginIntroduction/GlobalChat)（Velocity 全局聊天） |  √   |    √     |  √   |   √    |   √    |
+| [**DeathChest**](/PluginIntroduction/DeathChest)（死亡箱，替代 AngelChest） |  ×   |    ×     |  √   |   √    |   ×    |
+
+
+## 开源插件
+
+以下均为开源或第三方插件（含已弃用项）。
 
 
 |      |                                                              | 代理 | 登录大厅 | 主服 | 工业服 | 资源服 |
@@ -23,7 +41,7 @@ index: false
 |      | [**Plan**](https://github.com/plan-player-analytics/Plan/releases) |  √   |    √     |  √   |   √    |   √    |
 |      | [**ViaBackwards**](https://github.com/ViaVersion/ViaBackwards) |  √   |    ×     |  ×   |   ×    |   ×    |
 |      | [**ViaVersion**](https://github.com/ViaVersion/ViaVersion/)  |  √   |    ×     |  ×   |   ×    |   ×    |
-| 功能 | [**AngelChest**](https://www.spigotmc.org/resources/⭐-angelchest-plus-⭐-death-chests-graveyards.88214/) |  ×   |    ×     |  √   |   √    |   ×    |
+| 功能 | [**AngelChest**](/PluginIntroduction/AngelChest)（**已弃用**，由 [DeathChest](/PluginIntroduction/DeathChest) 替代） |  ×   |    ×     |  ×   |   ×    |   ×    |
 |      | [**Advanced-Portals**](https://github.com/sekwah41/Advanced-Portals/) |  /   |    √     |  ×   |   ×    |   ×    |
 |      |  [**CoreProtect**](https://github.com/PlayPro/CoreProtect)   |  /   |    √     |  √   |   √    |   √    |
 |      | [**DecentHolograms**](https://github.com/DecentSoftware-eu/DecentHolograms) |  /   |    √     |  ×   |   ×    |   ×    |
@@ -33,18 +51,14 @@ index: false
 |      | [**HuskSync**](https://www.spigotmc.org/resources/husksync-sync-inventories-ender-chests-cross-server-advancements-map-art-stats-backups.97144/) |  /   |    /     |  √   |   √    |   √    |
 |      | [**Quests**](https://www.spigotmc.org/resources/quests.3711/) |  /   |    √     |  ×   |   ×    |   ×    |
 |      | [**Residence**](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-21.11480/) |  /   |    √     |  √   |   ×    |   ×    |
-|      | [**ServerTeleport**](https://github.com/NPUcraft/ServerTeleport)（Velocity 切服别名） |  √   |    √     |  √   |   √    |   √    |
-|      | [**GlobalChat**](https://github.com/NPUcraft/GlobalChat)（Velocity 全局聊天） |  √   |    √     |  √   |   √    |   √    |
 |      |   [nightcore](https://github.com/nulli0n/nightcore-spigot)   |  /   |    ×     |  √   |   √    |   √    |
 |      | [CoinsEngine](https://www.spigotmc.org/resources/coinsengine-⭐-economy-and-custom-currencies.84121/) |  /   |    ×     |  √   |   √    |   √    |
 |      | [EconomyShopGUI](https://www.spigotmc.org/resources/economyshopgui-premium.104414/) |  /   |    ×     |  √   |   √    |   ×    |
 |      | [**TimeIsMoney**](https://www.spigotmc.org/resources/time-is-money.12409/) |  /   |    ×     |  √   |   √    |   ×    |
 |      | [**(FastAsync)WorldEdit**](https://www.spigotmc.org/resources/fastasyncworldedit.13932/) |  /   |    √     |  √   |   ×    |   √    |
 |      | [**worldguard**](https://dev.bukkit.org/projects/worldguard/files) |  /   |    √     |  ×   |   ×    |   ×    |
-|      | [**RandomTeleport**](https://github.com/NPUcraft/RandomTeleport) |  ×   |    ×     |  ×   |   ×    |   √    |
 |      | [**BetterStructures**](https://www.spigotmc.org/resources/betterstructures.103241/) |  /   |    ×     |  ×   |   ×    |   √    |
 |      | [**Chunky**](https://www.spigotmc.org/resources/chunky.81534/) |  /   |    ×     |  ×   |   ×    |   √    |
 |      | [**DragonDropElytra**](https://www.spigotmc.org/resources/dragondropelytra2.71235/) |  /   |    ×     |  ×   |   ×    |   √    |
 |      | [**LevelledMobs**](https://www.spigotmc.org/resources/levelledmobs.74304/) |  /   |    ×     |  ×   |   ×    |   √    |
 |      | [**MoreMobHeads**](https://www.spigotmc.org/resources/moremobheads.73997/) |  /   |    ×     |  ×   |   ×    |   √    |
-

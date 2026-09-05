@@ -3,7 +3,7 @@ title: LeavesFakePlayer
 icon: https://docs.leavesmc.org/logo.svg
 author: SUPER2FH
 category:
-  - FunctionalPlugin
+  - 开源插件
 tag: 
   - Survival-Main
   - Survival-Industry

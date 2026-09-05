@@ -1,9 +1,9 @@
 ---
-title: AngelChest
+title: AngelChest（已弃用）
 icon: /assets/cos/2025/03/21/67dd00154f020.jpg
 author: SUPER2FH
 category:
-  - FunctionalPlugin
+  - 开源插件
 tag: 
   - Survival-Main
   - Survival-Industry
@@ -11,14 +11,16 @@ tag:
 
 
 
-::: info 完整文档请查阅[AngelChest](https://bluemap.bluecolored.de/wiki/)
+::: warning 已弃用
+
+**AngelChest**（天使宝箱）已停用，不再安装于各子服。死亡箱现由自研插件 [DeathChest](/PluginIntroduction/DeathChest) 替代。
+
+- 个人开关请使用 `/dc on`、`/dc off`，**不要**再使用 `/actoggle`。
+- 取回物品请对死亡箱 **潜行右键**；完整说明见 [DeathChest](/PluginIntroduction/DeathChest)。
+
 :::
 
+以下为旧版行为摘要，仅供对照，**以 DeathChest 为准**。
 
-
-- 当您死亡时，将您的库存放入受保护的箱子中。右键单击`AngelChest`时，您的库存将会恢复。如果不能存储所有物品（因为您在重生后拿走了一些东西），剩余的物品将留在宝箱中，您可以决定要拿走/留下哪些物品。如果只想拿走一些物品，也可以通过` Shift-右键`单击直接打开宝箱。一旦宝箱清空或达到持续时间，它就会消失并掉落剩余的物品。
-- 即使不死图腾不在主/副手也可触发。
-
-```bash
-/actoggle    # 开启/关闭天使宝箱（800🍉/次）
-```
+- 死亡时将库存放入受保护箱子；右键可一次性取回，Shift-右键可打开箱子挑选物品。箱子清空或到期后消失，剩余物品掉落。
+- 旧命令：`/actoggle`（开/关天使宝箱，曾收费 800🍉/次）。该命令已失效。

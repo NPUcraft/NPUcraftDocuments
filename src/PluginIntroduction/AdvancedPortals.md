@@ -3,7 +3,7 @@ title: AdvancedPortals
 icon: https://advancedportals.sekwah.com/img/advancedportals.png
 author: SUPER2FH
 category:
-  - BasePlugin
+  - 开源插件
 tag: 
   - Lobby
 ---

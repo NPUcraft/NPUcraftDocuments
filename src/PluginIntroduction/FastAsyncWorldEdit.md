@@ -3,7 +3,7 @@ title: FastAsyncWorldEdit
 icon: /assets/cos/2025/03/23/67dfe9cb98da8.png
 author: SUPER2FH
 category:
-  - FunctionalPlugin
+  - 开源插件
 tag: 
   - Lobby
   - Survival-Main

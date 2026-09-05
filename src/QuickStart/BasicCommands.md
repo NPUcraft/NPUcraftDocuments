@@ -15,17 +15,18 @@ date: 2025-03-20
 |              `/zf`              |        前往`生存服-主服`        |          `生存服-工业服`<br />`生存服-资源服`           |
 |             `/gyf`              |       前往`生存服-工业服`       |           `生存服-主服`<br />`生存服-资源服`            |
 |             `/zyf`              |       前往`生存服-资源服`       |           `生存服-主服`<br />`生存服-工业服`            |
-|           `/actoggle`           |  开/关死亡物品回收（800🍉/次）   |           `生存服-主服`<br />`生存服-工业服`            |
+|      `/dc on`、`/dc off`       | 开/关死亡箱（替代旧 `/actoggle`） |           `生存服-主服`<br />`生存服-工业服`            |
 |             `/rtp`              |            随机传送             |                     `生存服-资源服`                     |
 |          `/balancetop`          |        查看全服经济排名         | `生存服-主服`<br />`生存服-工业服`<br />`生存服-资源服` |
 | `/coins give <player> <amount>` |   给`<player>` `<amount>`🍉币    | `生存服-主服`<br />`生存服-工业服`<br />`生存服-资源服` |
 
 
 
-::: tip 切服与随机传送
+::: tip 切服、随机传送与死亡箱
 
 - `/zf`、`/gyf`、`/zyf`、`/hub`、`/lobby` 等为 **Velocity** 上的切服别名，由 [ServerTeleport](/PluginIntroduction/ServerTeleport) 映射到各子服，等价于使用 `/server <后端名>`。  
 - `/rtp` 仅在 **生存服-资源服** 由 [RandomTeleport](/PluginIntroduction/RandomTeleport) 提供随机传送；扣费与冷却以游戏内 `/rtp help` 为准。
+- 主服 / 工业服死亡箱由 [DeathChest](/PluginIntroduction/DeathChest) 提供（已替代已弃用的 AngelChest）。取回请对箱子潜行右键；`/dc help` 可查看其余指令。
 
 :::
 

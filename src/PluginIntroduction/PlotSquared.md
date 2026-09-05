@@ -3,7 +3,7 @@ title: PlotSquared
 icon: https://raw.githubusercontent.com/IntellectualSites/Assets/main/plugins/PlotSquared/PlotSquared.svg
 author: SUPER2FH
 category:
-  - BasePlugin
+  - 开源插件
 tag: 
   - Creative
 ---

@@ -3,7 +3,7 @@ title: LuckPerms
 icon: https://luckperms.net/img/logo.a4ca2166.svg
 author: SUPER2FH
 category:
-  - BasePlugin
+  - 开源插件
 tag: 
   - Lobby
   - Survival-Main

@@ -3,7 +3,7 @@ title: DecentHolograms
 icon: https://www.spigotmc.org/data/resource_icons/96/96927.jpg
 author: SUPER2FH
 category:
-  - BasePlugin
+  - 开源插件
 tag: 
   - Lobby
 ---

@@ -3,7 +3,7 @@ title: GSit
 icon: /assets/cos/2025/03/21/67dd0582cdf55.jpg
 author: SUPER2FH
 category:
-  - FunctionalPlugin
+  - 开源插件
 tag:
   - Lobby
   - Survival-Main

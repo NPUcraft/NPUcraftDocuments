@@ -3,7 +3,7 @@ title: RandomTeleport
 icon: emojione:world-map
 author: SUPER2FH
 category:
-  - FunctionalPlugin
+  - 自研插件
 tag:
   - Survival-Resource
 ---

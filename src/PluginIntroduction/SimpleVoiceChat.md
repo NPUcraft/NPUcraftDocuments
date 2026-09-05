@@ -3,7 +3,7 @@ title: SimpleVoiceChat
 icon: fluent-emoji:microphone  
 author: SUPER2FH  
 category:  
-  - FunctionalPlugin  
+  - 开源插件  
 tag:  
   - Survival-Main  
   - Survival-Industry  
