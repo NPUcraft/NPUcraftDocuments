@@ -7,3 +7,15 @@
     color: var(--vp-c-text);
   }
 }
+
+.vp-sidebar-group {
+  .vp-sidebar-title {
+    font-weight: 600;
+    letter-spacing: 0.06em;
+  }
+
+  .vp-icon {
+    color: var(--theme-color);
+    opacity: 0.92;
+  }
+}

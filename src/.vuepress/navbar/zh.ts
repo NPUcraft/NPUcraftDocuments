@@ -18,7 +18,11 @@ export const zhNavbar = navbar([
   "/PluginIntroduction/",
   "/ServerIntroduction/",
 
-  "/PlayerProfiles/",
+  {
+    text: "玩家档案",
+    icon: "fluent-emoji:busts-in-silhouette",
+    link: "/PlayerProfiles/",
+  },
   "/Chronicle/",
 
   // {
