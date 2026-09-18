@@ -2,7 +2,7 @@
 title: Arcade
 shortTitle: 街机迷你游戏
 icon: https://www.spigotmc.org/data/resource_icons/49/49093.jpg
-order: 4
+order: 3
 author: SUPER2FH
 category:
   - GroupServer

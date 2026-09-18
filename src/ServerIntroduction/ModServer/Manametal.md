@@ -2,6 +2,7 @@
 title: Manametal
 shortTitle: 魔法金属
 icon: /assets/cos/2025/03/21/67dd13841a31b.png
+order: 2
 author: Hui_Xun
 category:
   - StandAloneServer

@@ -59,6 +59,10 @@ export const pathRedirects: Record<string, string> = {
   "/SurvivalGuide/Support/Technical/": "/SurvivalGuide/Support/",
   "/MachineInstruction/": "/SurvivalGuide/MachineInstruction/",
   "/MachineInstruction.html": "/SurvivalGuide/MachineInstruction/",
+  "/ServerIntroduction/GroupServer/MiniGames/Shipyard.html":
+    "/ServerIntroduction/GroupServer/Creative/Shipyard.html",
+  "/ServerIntroduction/GroupServer/MiniGames/Shipyard/":
+    "/ServerIntroduction/GroupServer/Creative/Shipyard.html",
   "/PlayerProfiles/": "/Chronicle/PlayerProfiles/",
   "/PlayerProfiles.html": "/Chronicle/PlayerProfiles/",
   ...Object.fromEntries(

@@ -55,11 +55,11 @@ prev: ../EconomicSystem/Shop
 **问：三个生存服有什么区别？**  
 答：主服住人、圈地、开店；工业服做生电和假人；资源服探索采集，地图会不定期重置，不要把唯一基地建在那里。总览见 [生存服介绍](/SurvivalGuide/SurvivalServer/)。
 
-**问：Bingo、船坞、躲猫猫怎么去？**  
-答：大厅对应传送门，或 `/server Bingo`、`/server Shipyard`、`/server HideAndSeek`。街机后端 `GameArcade` **暂未开放**，门可能连不上。
+**问：Bingo、躲猫猫、船坞、虚空实验室怎么去？**  
+答：大厅对应传送门，或 `/server Bingo`、`/server HideAndSeek`、`/server Shipyard`、`/server VoidLab`。街机后端 `GameArcade` **暂未开放**，门可能连不上。创造服介绍见 [虚空实验室](/ServerIntroduction/GroupServer/Creative/VoidLab.md)、[船坞](/ServerIntroduction/GroupServer/Creative/Shipyard.md)。
 
 **问：复原工程、模组服在大厅有门吗？**  
-答：复原施工端从登录大厅进入。`Reconstruction-forge`、`visitors` 和模组服**不走大厅**。前两者加 QQ **813439644**；魔法金属用自己的整合包地址，见 [服务器介绍](/ServerIntroduction/)。
+答：复原施工端从登录大厅进入。`Reconstruction-forge`、`visitors` 和模组服**不走大厅**。前两者加 QQ **813439644**；[海权论](/ServerIntroduction/ModServer/SeaPower.md)、[魔法金属](/ServerIntroduction/ModServer/Manametal.md) 各自使用独立整合包与地址，见 [模组服](/ServerIntroduction/ModServer/)。
 
 ## 背包、死亡与指令
 
@@ -70,7 +70,7 @@ prev: ../EconomicSystem/Shop
 答：先等动作栏提示数据对齐结束，再开箱、丢东西或连续切服。坐标不同步，你会出现在该子服上次离开的位置。见 [HuskSync](/PluginIntroduction/HuskSync)。
 
 **问：西瓜币三个生存服通用吗？**  
-答：通用，同一钱包。新人起始 **10,000🍉**。余额看 `Tab` 或 `/balance`。大厅和小游戏不走这套商店。
+答：通用，同一钱包。新人起始 **10,000🍉**。余额看 `Tab` 或 `/balance`。大厅、创造服和小游戏不走这套商店。
 
 **问：死亡会掉东西吗？**  
 答：主服 / 工业服用 [DeathChest](/PluginIntroduction/DeathChest)，潜行右键取回，`/dc on`、`/dc off` 开关。资源服一般为死亡不掉落。找不到箱子时用 `/dc status`。

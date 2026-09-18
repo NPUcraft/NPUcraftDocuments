@@ -9,6 +9,8 @@ tag:
   - Survival-Main
   - Survival-Industry
   - Survival-Resource
+  - VoidLab
+  - Shipyard
 ---
 
 
@@ -19,7 +21,7 @@ tag:
 
 
 
-**FastAsyncWorldEdit (FAWE)** 是一款高性能的WorldEdit分支插件，专为大规模地形编辑优化。它支持异步操作，能在不卡顿服务器的情况下处理海量方块操作，同时保留了原版WorldEdit的所有核心功能，并新增了多种高效工具和命令。
+**FastAsyncWorldEdit (FAWE)** 是一款高性能的WorldEdit分支插件，专为大规模地形编辑优化。它支持异步操作，能在不卡顿服务器的情况下处理海量方块操作，同时保留了原版WorldEdit的所有核心功能，并新增了多种高效工具和命令。[虚空实验室](/ServerIntroduction/GroupServer/Creative/VoidLab.md) 向实验员开放常用选区与编辑命令；船坞需有对应权限才能使用。
 
 ## 一、命令语法说明📜
 | 符号           | 说明                             |

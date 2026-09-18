@@ -2,7 +2,7 @@
 title: HideAndSeek
 shortTitle: 方块躲猫猫
 icon: /assets/cos/2025/03/21/67dd11feb7ca7.jpg
-order: 3
+order: 2
 author: Frezz
 category:
   - GroupServer

@@ -26,8 +26,9 @@ tag:
 | [生存主服](/SurvivalGuide/SurvivalServer/Survival-Main.md) | 东侧水门 | `/zf` |
 | [生存工业服](/SurvivalGuide/SurvivalServer/Survival-Industry.md) | 东侧下界门 | `/gyf` |
 | [生存资源服](/SurvivalGuide/SurvivalServer/Survival-Resource.md) | 东侧末地门 | `/zyf` |
+| [虚空实验室](./Creative/VoidLab.md) | 大厅传送门以现场为准 | `/server VoidLab` |
+| [船坞](./Creative/Shipyard.md) | 北侧末地折跃门 | `/server Shipyard` |
 | [Bingo](./MiniGames/Bingo.md) | 西侧末地折跃门 | `/server Bingo` |
-| [船坞](./MiniGames/Shipyard.md) | 北侧末地折跃门 | `/server Shipyard` |
 | [街机](./MiniGames/Arcade.md) | 西侧下界门 | `/server GameArcade` |
 
 

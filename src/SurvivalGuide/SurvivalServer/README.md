@@ -16,7 +16,7 @@ tag:
 
 1. 在大厅走传送门，或直接 `/zf` 到主服，先落脚、圈地、熟悉商店与轨道交通。  
 2. 缺材料时 `/zyf` 去资源服用 `/rtp` 开荒；打到的东西会跟着背包回主服。  
-3. 要做刷怪塔、全自动农场或长期挂机产线时，再 `/gyf` 去工业服选址。
+3. 要做刷怪塔、全自动农场或长期挂机产线时，再 `/gyf` 去工业服选址；大规模机器可先在 [虚空实验室](/ServerIntroduction/GroupServer/Creative/VoidLab.md) 用创造模式验证。
 
 切服别名、冷却与「当前所在服才能用哪些命令」见 [ServerTeleport](/PluginIntroduction/ServerTeleport)。
 

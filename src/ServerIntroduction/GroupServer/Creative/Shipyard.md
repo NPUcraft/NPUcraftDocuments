@@ -8,9 +8,12 @@ category:
   - GroupServer
 tag:
   - Shipyard
+redirectFrom:
+  - /ServerIntroduction/GroupServer/MiniGames/Shipyard.html
+  - /ServerIntroduction/GroupServer/MiniGames/Shipyard/
 ---
 
-船坞（后端 `Shipyard`）是群组里的**和平建造向**子服，面板标签为小游戏，工作目录挂在创造类实例下。适合造船、摆场景、做展示，不承担生存进度。当前导出为 **Paper 1.21.11**（大厅仍是 1.21.4，靠 Via 进出），视距 16，已开下界与 PVP，难度为**和平**。
+船坞（后端 `Shipyard`）是群组**创造服**下的和平建造向子服，适合造船、摆场景、做展示，不承担生存进度。当前导出为 **Paper 1.21.11**（大厅仍是 1.21.4，靠 Via 进出），视距 16，已开下界与 PVP，难度为**和平**。需要纯虚空、强制创造与完整实验权限时，请使用 [虚空实验室](./VoidLab.md)。
 
 ::: tip 如何进入
 

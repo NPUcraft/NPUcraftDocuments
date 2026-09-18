@@ -52,7 +52,7 @@ date: 2026-04-12
 | :--- | :--- |
 | 刚入服，需要环境与账号 | [快速入门](/QuickStart/) → [环境配置](/QuickStart/Environment)、[账号注册](/QuickStart/Register)、[常用命令](/QuickStart/BasicCommands) |
 | 想了解生存服玩法与经济规则 | [生存服指南](/SurvivalGuide/) |
-| 想区分大厅、生存、小游戏等子服 | [服务器一览](/ServerIntroduction/) |
+| 想区分大厅、生存、创造、小游戏等子服 | [服务器一览](/ServerIntroduction/) |
 | 想查某插件的指令或功能 | [插件介绍](/PluginIntroduction/) |
 | 关心周目历史、玩家档案与关键事件 | [编年史](/Chronicle/) |
 | 关心代理、版本与硬件等变更记录 | [更新日志](./Changelog) |
